@@ -1,0 +1,18 @@
+.main {
+  color: red;
+}
+.main .sub {
+  color: rgb(55, 126, 55);
+}/*# sourceMappingURL=main.css.map */
+.container{
+  background: pink;
+  color: black;
+}
+.row{
+  background: black;
+  color: white
+}
+.box{
+  background: red;
+  color: yellow;
+}
